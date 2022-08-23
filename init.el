@@ -70,7 +70,4 @@
 
 (setq w3m-default-display-inline-images t)
 
-(line-number-mode t)
-(column-number-mode t)
-
 (global-set-key (kbd "C-x C-e") 'eshell)
